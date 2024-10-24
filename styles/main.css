@@ -2,11 +2,32 @@
     font-family: "Azeret Mono", monospace;
     font-optical-sizing: auto;
     font-style: normal;
+    color: #0D1321;
   }
 
+  /* shared design */
+ 
 
   /* nav title */
+  .nav{
+    margin: 40px 0;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+  }
   .nav-title{
     font-size: 28px;
     font-weight: bolder;
+  }
+  .nav-button{
+    border-radius: 8px;
+    padding: 17px 24px;
+    font-size: 20px;
+    font-weight: semi-bold;
+  }
+  /* header banner */
+  .banner{
+    height: 652px;
+    background-image: url("../assets/Hero-bg.png");
   }
