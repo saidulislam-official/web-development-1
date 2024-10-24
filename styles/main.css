@@ -6,7 +6,9 @@
   }
 
   /* shared design */
- 
+ .text-opacity{
+    opacity: 0.7;
+ }
 
   /* nav title */
   .nav{
@@ -55,3 +57,28 @@
     background-color: #0D1321;
     border-style: none;
   }
+
+
+  /* main section start */
+    .dev-section{
+        text-align: center;
+        margin: 74px 150px 90px 150px;
+        background-color: rgba(13, 19, 33, 0.02);
+    }
+    .section-start{
+        margin: 80px 97px;
+    }
+    .section-title{
+        padding-top: 80px;
+        font-size: 32px;
+        font-weight: extra-bold;
+    }
+    .describe-card{
+        margin-top: 48px;
+        display: flex;
+        justify-content: space-around;
+        text-align: left;
+        background-color: white;
+        border-radius: 16px;
+        padding: 48px;
+    }
