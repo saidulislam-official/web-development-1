@@ -72,6 +72,7 @@
         padding-top: 80px;
         font-size: 32px;
         font-weight: extra-bold;
+        
     }
     .describe-card{
         margin-top: 48px;
@@ -81,4 +82,18 @@
         background-color: white;
         border-radius: 16px;
         padding: 48px;
+    }
+    .describe-part-title{
+      width: 390px;
+      font-size: 24px;
+      font-weight: bold;
+      
+    }
+    .describe-part-description{
+      width: 468px;
+    }
+    .describe-part-btn{
+      padding: 12px 20px;
+      font-size: 20px;
+      font-weight: semi-bold;
     }
