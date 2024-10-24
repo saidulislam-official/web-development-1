@@ -20,7 +20,7 @@
     font-size: 28px;
     font-weight: bolder;
   }
-  .nav-button{
+  .nav-btn{
     border-radius: 8px;
     padding: 17px 24px;
     font-size: 20px;
@@ -30,4 +30,28 @@
   .banner{
     height: 652px;
     background-image: url("../assets/Hero-bg.png");
+  }
+  .banner-description{
+    padding-top: 26px;
+    width: 998px;
+    margin: 0 auto;
+    text-align: center;  
+  }
+
+  .banner-title{
+    font-size: 48px;
+    font-weight: extra-bold;    
+  }
+  .banner-description{
+    padding: 24px 0 32px 0;
+  }
+
+  .contact-btn{
+    border-radius: 8px;
+    color: white;
+    font-size: 20px;
+    font-weight: semi-bold;
+    padding: 21px 24px;
+    background-color: #0D1321;
+    border-style: none;
   }
